@@ -1,4 +1,4 @@
-# Java Decryptor, Homework Requirement
+# Decryptor, Homework Requirement
 
 Problem:
 ----------------
