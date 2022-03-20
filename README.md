@@ -1,6 +1,5 @@
-# JDecryptor
-Homework Requirement
-===============================
+# Java Decryptor, Homework Requirement
+
 Problem:
 ----------------
   A set of crooks have decided that it would really be cool to use a linked list to encrypt and decrypt messages that they send to each other. Your cyber defense team has been tasked with creating the decryption algorithm that will read encrypted text messages from a file and print out the decrypted message.
