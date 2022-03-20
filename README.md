@@ -11,8 +11,7 @@ Proposed Solution:
   They have discovered that the * has been used to show a space between words. Decrypting the words in a message has been reduced to the following operations - take each character of the message and store it in a linked list in the following fashion:
 
 • Each letter is added to the linked list alternating between: 
-  
-  • addingtothefrontofthelist 
+  • adding to the front of the list 
   • Followed by adding to the end of the list
 • At the end, the hidden message is obtained by printing out the contents of the linked list.
 
